@@ -2,9 +2,12 @@
 Run debian linux on leapfrog lf2000 devices
 Credits ; some file from Leapdroid (https://github.com/CE1CECL/LeapDroid) by ChrisEric were used (lf2000_ulimage)
 
-Note: 1.It is currently unusable due to lack of input option, its hard to get touchsreen working. 
-      2.You are free to tweak it for your own convinience.
-      3.If you got anything to share regarding tweak you're most welcome to share
+### Note: 
+- It is currently unusable due to lack of input option, its hard to get touchsreen working.
+- You are free to tweak it for your own convinience.
+-  If you got anything to share regarding tweak you're most welcome to share
+  
+      
 
 ## Step 1
 <pre> git clone https://github.com/ptgisgreat/debianlf2000.git </pre>
@@ -16,6 +19,6 @@ Note: 1.It is currently unusable due to lack of input option, its hard to get to
 <pre> ./remote_flash.sh </pre>
 
 Only lf2000 is supported (Option 3)
-I can't test it on other devices becuase i don't have one.
+I can't test it on other devices becuase i don't have any device other than leappad2.
 
 

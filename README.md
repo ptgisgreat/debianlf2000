@@ -1,5 +1,8 @@
 # debianlf2000
-Run debian linux on leapfrog lf2000 devices
+Run debian linux on leapfrog lf2000 devices (with GUI)
+
+Currently their is no way to login, i'll be setting autologin in next commit 
+
 Credits ; some file from Leapdroid (https://github.com/CE1CECL/LeapDroid) by ChrisEric were used (lf2000_ulimage)
 
 ### Note: 

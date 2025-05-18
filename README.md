@@ -24,4 +24,5 @@ Credits ; some files from Leapdroid (https://github.com/CE1CECL/LeapDroid) by Ch
 Only lf2000 is supported (Option 3)
 I can't test it on other devices becuase i don't have any device other than leappad2.
 
-
+## Note 
+If sshflash files doesn't work, download Leapdroid files and replace rootfs.tar.gz in leapdroid to the one in here 
